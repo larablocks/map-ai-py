@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "map-ai-py"
-version = "0.1.0"
+version = "0.1.1"
 description = "MAP AI documentation scaffold — install & doctor CLI for Django, Flask, FastAPI, and plain Python projects"
 readme = "README.md"
 license = "MIT"
